@@ -1,0 +1,15 @@
+{
+  "project": {
+    "title": "dataloops",
+    "url": "https://github.com/nonlinear/dataloops/",
+    "description": "a collection of useful json files",
+    "analytics": ""
+  },
+  "author": {
+    "name": "Nicholas Frota",
+    "email": "info@nicholasfrota.com",
+    "twitter": "nonlinear",
+    "github": "nonlinear",
+    "instagram": "nonlinear"
+  }
+}
