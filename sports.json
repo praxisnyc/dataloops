@@ -1,5 +1,5 @@
 {
-      "summer-sports": [
+      "summer": [
       {"name": "Archery"},
       {"name": "Athletics"},
       {"name": "Badminton"},
@@ -43,4 +43,24 @@
       {"name": "Wrestling Freestyle"},
       {"name": "Wrestling Greco-Roman"}
       ]
+},
+{
+  "winter": [
+  {"name": "Alpine Skiing"},
+  {"name": "Biathlon"},
+  {"name": "Bobsleigh"},
+  {"name": "Cross Country Skiing"},
+  {"name": "Curling"},
+  {"name": "Figure skating"},
+  {"name": "Freestyle Skiing"},
+  {"name": "Ice Hockey"},
+  {"name": "Luge"},
+  {"name": "Nordic Combined"},
+  {"name": "Short Track Speed Skating"},
+  {"name": "Skeleton"},
+  {"name": "Ski Jumping"},
+  {"name": "Snowboard"},
+  {"name": "Speed skating"}
+  ]
 }
+
